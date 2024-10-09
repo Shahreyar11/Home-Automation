@@ -4,12 +4,12 @@
 #include "addons/RTDBHelper.h"
 
 // WiFi Credentials
-#define WIFI_SSID "Airtel_ARISH-Wifi"
-#define WIFI_PASSWORD "Arish@00"
+#define WIFI_SSID "Airtel"
+#define WIFI_PASSWORD ""
 
 // Firebase Credentials
-#define API_KEY "AIzaSyCZ5_wHQw7vYJB8uPOR1YnhkEyLK9QiDY0"
-#define DATABASE_URL "https://automate-9c31d-default-rtdb.firebaseio.com/"
+#define API_KEY ""
+#define DATABASE_URL ""
 
 // Pin Definitions
 #define RELAY_PIN 26  // Pin for the relay
